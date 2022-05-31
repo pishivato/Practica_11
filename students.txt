@@ -1,0 +1,33 @@
+Nombre: Pedro
+Matricula: 126489
+Calificaciones: -> 78
+-> 58
+-> 91
+-> 97
+-> 100
+-> 86
+-> 99
+Promedio: 87.0
+
+Nombre: Maria
+Matricula: 126978
+Calificaciones: -> 99
+-> 78
+-> 66
+-> 87
+-> 67
+-> 97
+-> 86
+Promedio: 82.85714285714286
+
+Nombre: Josefa
+Matricula: 126519
+Calificaciones: -> 74
+-> 69
+-> 99
+-> 67
+-> 87
+-> 87
+-> 87
+Promedio: 81.42857142857143
+
